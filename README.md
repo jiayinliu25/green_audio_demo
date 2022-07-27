@@ -1,2 +1,2 @@
-# Image Carousel with Owl Carousel 2 jQuery Plugin
-Link to owl Carousel: https://owlcarousel2.github.io/OwlCarousel2/
+# Audio Player with Green Audio Player
+Link to owl Carousel: https://github.com/greghub/green-audio-player/tree/master/examples
